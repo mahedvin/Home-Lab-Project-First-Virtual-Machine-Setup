@@ -3,7 +3,5 @@ This project documents the creation and configuration of my first virtual machin
 
 
 OBJECTIVES
-
 -Understand how virtualization works in a pratical environment
-
 -install and configure a virtual machine
