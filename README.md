@@ -3,5 +3,19 @@ This project documents the creation and configuration of my first virtual machin
 
 
 OBJECTIVES 
+
 -Understand how virtualization works in a pratical environment 
--install and configure a virtual machine
+
+-Install and configure a virtual machine
+
+-Learn basic linux commands
+
+-Troubleshoot common setup issues
+
+TOOLS & TECHNOLOGIES USED
+
+-Virtualization software: Virtualbox
+
+Operating system: Ubuntu
+
+Device: Macbook Pro
