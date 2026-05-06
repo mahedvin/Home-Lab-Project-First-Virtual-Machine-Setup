@@ -15,8 +15,8 @@ This project documents the creation and configuration of my first virtual machin
 
 
  PROJECT SETUP
-1. Virtual Machine Creation
-Created a virtual machine using VirtualBox
+1. Virtual Machine Creation 
+ -Created a virtual machine using VirtualBox
 Allocated system resources (RAM, CPU, storage)
 Attached Ubuntu ISO and completed installation
 2. System Configuration
