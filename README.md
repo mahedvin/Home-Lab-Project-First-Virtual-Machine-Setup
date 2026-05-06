@@ -16,29 +16,40 @@ This project documents the creation and configuration of my first virtual machin
 
  PROJECT SETUP 
  
- -Virtual Machine Creation: 
+ 1.Virtual Machine Creation: 
 
-Created a virtual machine using VirtualBox
+-Created a virtual machine using VirtualBox
 
-Allocated system resources (RAM, CPU, storage)
+-Allocated system resources (RAM, CPU, storage)
 
-Attached Ubuntu ISO and completed installation 
+-Attached Ubuntu ISO and completed installation 
 
--System Configuration
-Updated system packages
-Configured user environment
-Verified system functionality
+2.System Configuration
 
--Basic Linux Administration
-Commands executed: 
--whoami 
--hostname 
--pwd 
+-Updated system packages
+
+-Configured user environment
+
+-Verified system functionality
+
+3.Basic Linux Administration
+Commands executed:
+
+-whoami
+
+-hostname
+
+-pwd
+
 -ls
-4. Network Verification
-ping -c 4 google.com
-5. Troubleshooting
+
+4.Network Verification
+
+-ping -c 4 google.com
+
+6.Troubleshooting
  
 -Resolved display scaling issues by installing Guest Additions 
+-Configured VM display settings for better performance
 
 -Configured VM display settings for better performance
