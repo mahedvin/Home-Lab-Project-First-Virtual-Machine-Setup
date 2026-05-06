@@ -1,3 +1,4 @@
+<img width="1512" height="982" alt="Screenshot 2026-05-05 at 9 01 03 PM" src="https://github.com/user-attachments/assets/76828d13-aed3-4663-9332-9e5b61951285" />
 # Home-Lab-Project-First-Virtual-Machine-Setup
 This project documents the creation and configuration of my first virtual machine using VirtualBox on a MacBook Pro. The goal was to gain hands-on experience with virtualization and basic system administration.  
 
