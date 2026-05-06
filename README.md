@@ -31,6 +31,8 @@ Commands executed:
 -ls
 4. Network Verification
 ping -c 4 google.com
-5. Troubleshooting 
-Resolved display scaling issues by installing Guest Additions 
-Configured VM display settings for better performance
+5. Troubleshooting
+ 
+-Resolved display scaling issues by installing Guest Additions 
+
+-Configured VM display settings for better performance
