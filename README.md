@@ -14,12 +14,13 @@ This project documents the creation and configuration of my first virtual machin
 -Host Machine: macOS  
 
 
- PROJECT SETUP
-1. Virtual Machine Creation 
- -Created a virtual machine using VirtualBox
+ PROJECT SETUP 
+ -Virtual Machine Creation: 
+Created a virtual machine using VirtualBox
 Allocated system resources (RAM, CPU, storage)
-Attached Ubuntu ISO and completed installation
-2. System Configuration
+Attached Ubuntu ISO and completed installation 
+
+-System Configuration
 Updated system packages
 Configured user environment
 Verified system functionality
