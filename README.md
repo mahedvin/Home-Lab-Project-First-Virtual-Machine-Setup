@@ -24,13 +24,11 @@ Updated system packages
 Configured user environment
 Verified system functionality
 3. Basic Linux Administration
-
-Commands executed:
-
-whoami
-hostname
-pwd
-ls
+Commands executed: 
+-whoami 
+-hostname 
+-pwd 
+-ls
 4. Network Verification
 ping -c 4 google.com
 5. Troubleshooting
