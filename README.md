@@ -53,3 +53,7 @@ Commands executed:
 -Configured VM display settings for better performance
 
 -Configured VM display settings for better performance
+
+
+SCREENSHOTS
+
