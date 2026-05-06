@@ -63,4 +63,8 @@ SCREENSHOTS
 <img width="1512" height="982" alt="Screenshot 2026-05-05 at 9 10 02 PM" src="https://github.com/user-attachments/assets/acaaf7e0-3d6a-4a6d-9d27-b06270f79846" />
 
 
+SUMMARY 
+This project marks the beginning of my hands on journey into IT infrastructure, focusing on virtualization and sysytem administration
+
+
 
